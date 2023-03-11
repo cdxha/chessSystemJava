@@ -2,6 +2,12 @@ package boardgame;
 
 public class Position {
 	
+	/** Encapsulamento dos campos com o private e gets and sets, construtores e
+	ToString Object e Overrinding.
+	
+	Sobreescreve o método ToString da classe Object.
+	
+	**/
 	private int row;
 	private int column;
 	
